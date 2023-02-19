@@ -1,5 +1,1 @@
-Hi
-
-Hello world
-
-hi
+Hi!
